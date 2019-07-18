@@ -1,0 +1,31 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pga.com" resolutions="1x" timestamp="1563432408665">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="11110752" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="oih9h50.jpg" crc="3960707446" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u632_states.png" crc="177425914" ref="index"/>
+    <file name="u632_states-r.png" crc="177425914" ref="index"/>
+    <file name="u632_states-m.png" crc="51591730" ref="index"/>
+    <file name="adobestock_123241965.jpg" crc="411714068" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1-u410-fr.png" crc="4199654885" ref="index"/>
+    <file name="asset 2-u413-fr.png" crc="248578903" ref="index"/>
+    <file name="asset 3-u416-fr.png" crc="423836929" ref="index"/>
+  </folder>
+  <file name="index.html" crc="245840658" seo="true" mt="1563432408200" redirect="true"/>
+</manifest>
