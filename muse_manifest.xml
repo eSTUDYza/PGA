@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pga.com" resolutions="1x" timestamp="1565161352615">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pga.com" resolutions="1x" timestamp="1565162592215">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="26434554" ref="index"/>
+    <file name="index.css" crc="4083180483" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,9 +23,9 @@
     <file name="adobestock_123241965.jpg" crc="411714068" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 1-u410-fr.png" crc="4199654885" ref="index"/>
     <file name="asset 2-u413-fr.png" crc="248578903" ref="index"/>
+    <file name="asset 1-u410-fr.png" crc="4199654885" ref="index"/>
     <file name="asset 3-u416-fr.png" crc="423836929" ref="index"/>
   </folder>
-  <file name="index.html" crc="56951054" seo="true" mt="1565161326685" redirect="true"/>
+  <file name="index.html" crc="4265919195" seo="true" mt="1565162591673" redirect="true"/>
 </manifest>
